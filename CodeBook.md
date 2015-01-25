@@ -87,42 +87,75 @@ For example, tBodyAcc is representing mean and standard deviations across X Y an
 "tBodyAccMag-mean" 
 
 "tBodyAccMag-std" 
+
 "tGravityAccMag-mean" 
+
 "tGravityAccMag-std" 
+
 "tBodyAccJerkMag-mean" 
+
 "tBodyAccJerkMag-std" 
+
 "tBodyGyroMag-mean" 
+
 "tBodyGyroMag-std" 
+
 "tBodyGyroJerkMag-mean" 
+
 "tBodyGyroJerkMag-std" 
+
 "fBodyAcc-mean-X" 
+
 "fBodyAcc-mean-Y" 
+
 "fBodyAcc-mean-Z" 
+
 "fBodyAcc-std-X" 
+
 "fBodyAcc-std-Y" 
+
 "fBodyAcc-std-Z" 
+
 "fBodyAccJerk-mean-X" 
+
 "fBodyAccJerk-mean-Y" 
+
 "fBodyAccJerk-mean-Z" 
+
 "fBodyAccJerk-std-X" 
+
 "fBodyAccJerk-std-Y" 
+
 "fBodyAccJerk-std-Z" 
+
 "fBodyGyro-mean-X" 
+
 "fBodyGyro-mean-Y" 
+
 "fBodyGyro-mean-Z" 
+
 "fBodyGyro-std-X"
+
 "fBodyGyro-std-Y"
+
 "fBodyGyro-std-Z"
 
 The following are mean and standard deviations measurements vectors instead of at X Y or Z.
 
 "fBodyAccMag-mean" 
+
 "fBodyAccMag-std" 
+
 "fBodyBodyAccJerkMag-mean" 
+
 "fBodyBodyAccJerkMag-std" 
+
 "fBodyBodyGyroMag-mean" 
+
 "fBodyBodyGyroMag-std" 
+
 "fBodyBodyGyroJerkMag-mean" 
+
 "fBodyBodyGyroJerkMag-std"
 
 The tidy output file contains 180 rows with with a combination of 30 subjects across 6 activities.
