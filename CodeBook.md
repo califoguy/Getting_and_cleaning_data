@@ -19,7 +19,7 @@ The following are the labels for activity. These are represented as correspondin
 The following are measurements taken which are means and standard deviations on X Y and Z coordinates.
 For example, tBodyAcc is representing mean and standard deviations across X Y and Z and is time bound (indicated with a t). Similarly, other measurements are drawn such as gravity, gyro and jerk for each. The f indicates frequency domain.
 
-"tBodyAcc-mean-X" 
+"tBodyAcc-mean-X"
 "tBodyAcc-mean-Y" 
 "tBodyAcc-mean-Z" 
 "tBodyAcc-std-X" 
@@ -74,9 +74,9 @@ For example, tBodyAcc is representing mean and standard deviations across X Y an
 "fBodyGyro-mean-X" 
 "fBodyGyro-mean-Y" 
 "fBodyGyro-mean-Z" 
-"fBodyGyro-std-X" 
-"fBodyGyro-std-Y" 
-"fBodyGyro-std-Z" 
+"fBodyGyro-std-X"
+"fBodyGyro-std-Y"
+"fBodyGyro-std-Z"
 
 The following are mean and standard deviations measurements vectors instead of at X Y or Z.
 
