@@ -140,6 +140,7 @@ For example, tBodyAcc is representing mean and standard deviations across X Y an
 
 "fBodyGyro-std-Z"
 
+
 The following are mean and standard deviations measurements vectors instead of at X Y or Z.
 
 "fBodyAccMag-mean" 
@@ -158,4 +159,4 @@ The following are mean and standard deviations measurements vectors instead of a
 
 "fBodyBodyGyroJerkMag-std"
 
-The tidy output file contains 180 rows with with a combination of 30 subjects across 6 activities.
+The final tidy output file contains 180 rows with with a combination of 30 subjects across 6 activities.
